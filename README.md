@@ -146,7 +146,7 @@ Esto permite escalabilidad, mantenibilidad y reutilización del código.
 1. **Clonar o acceder al directorio del proyecto:**
 
 ```bash
-cd Segundo_proyecto
+cd Analisis_de_precios_del_petroleo
 ```
 
 2. **Crear un entorno virtual (opcional pero recomendado):**
