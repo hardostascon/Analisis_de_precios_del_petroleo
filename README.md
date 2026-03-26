@@ -107,7 +107,7 @@ pydantic-settings
 ![Maximos y Minimos](Excel/screen/maxmin.png)
 ![Promedio por mes](Excel/screen/promediopormes.png)
 ![Variacion](Excel/screen/variacion.png)
-
+![dashboard](powerbi/screen/dashboard.png)
 
 ## 🔎 Ejemplo de uso
 
